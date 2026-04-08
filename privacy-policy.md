@@ -52,7 +52,7 @@ We may update this Privacy Policy occasionally to reflect changes in the app or 
 
 #### 7. Contact Us
 If you have any questions about this Privacy Policy or the app, please contact us at:  
-**Email:** support_turtlevest@gmail.com
+**Email:** turtlevestapp@gmail.com
 
 By using TurtleVest, you acknowledge and agree to the terms of this Privacy Policy.
 
