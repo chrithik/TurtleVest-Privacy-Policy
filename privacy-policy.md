@@ -1,5 +1,5 @@
 ### Privacy Policy for TurtleVest 
-**Effective Date: January 26, 2026**
+**Effective Date: April 19, 2026**
 
 TurtleVest is an educational mobile application created by a team of high school students to help young adults, beginners, and anyone new to money matters ("financial dummies") learn about financial literacy, investing basics, and smart money management.
 
