@@ -1,6 +1,6 @@
 # Turtlevest Support
 
-Welcome to the **Turtlevest** support page. Our goal is to empower young investors with the knowledge and confidence to develop a foundation for their financial future. If you have questions, feedback, or need technical assistance, we are here to help!
+Welcome to the **Turtlevest** support page. Our goal is to empower young investors with the knowledge and confidence to develop a foundation for their financial future.
 
 ## Contact Us
 If you have suggestions to improve the app or need help, please reach out to us via email:
